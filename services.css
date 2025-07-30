@@ -1,0 +1,510 @@
+.wrapper{
+    background: #19598A;
+    display: flex;
+    justify-content: center;
+    margin-left: -8px;
+    height: 85px;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.header-text > p{
+    margin-left: 85px;
+}
+
+.serv{
+    text-decoration: underline;
+}
+
+.header-text{
+    display: flex;
+    justify-content: center;
+    font-size: 25px;
+    color: white;
+    font-family: Poppins;
+}
+
+.header-logo{
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.dovee{
+    margin-top: 30px;
+    position: relative;
+    bottom: 15px;
+    right: 100px;
+}
+
+.everp{
+    color: rgb(255, 255, 255);
+    font-family: Barokah Serif;
+    font-size: 40px;
+    right: 80px;
+    position: relative;
+    bottom: 25px;
+}
+
+.wrapper-2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.photo{
+    width: 100%;
+    margin-right: 15px;
+    position: relative;
+    bottom: 20px;
+    height: 340px;
+}
+
+.wrapper-3{
+    display: flex;
+    justify-content: center;
+}
+
+.wrapper-2 > p{
+    font-size: 128px;
+    font-family: Buttershine Serif;
+    margin-right: 20px;
+    position: relative;
+    bottom: 400px;
+    color: white;
+}
+
+.servi{
+    font-family: Barokah Serif;
+    color: black;
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+    bottom: 400px;
+    left: 530px;
+    position: relative;
+}
+
+.provide{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 0;
+    font-family: Barokah Serif;
+    font-size: 32px;
+}
+
+.motuary{
+    margin: 0;
+    position: relative;
+    bottom: 230px;
+    right: 230px;
+    
+}
+
+.to{
+    text-align: center;
+    margin: 0;
+    font-family: Barokah Serif;
+    position: relative;
+    font-size: 32px;
+    bottom: 230px;
+    right: 230px;
+}
+
+.td{
+    display: flex;
+    margin-left: 50px;
+}
+
+.wrapper-4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.td-text{
+    display: flex;
+    flex-direction: column;
+    margin-left: 380px;
+    font-family: Barokah Serif;
+}
+
+.trad{
+    font-size: 40px;
+    position: relative;
+    bottom: 150px;
+    text-decoration: none;
+    color: black;
+}
+
+.trad-msg{
+    margin: 0;
+    font-family: Barokah Serif;
+    font-size: 32px;
+    position: relative;
+    bottom: 150px;
+    
+}
+
+.burialpic{
+    position: relative;
+    bottom: 130px;
+    left: 330px;
+}
+
+.cs{
+    display: flex;
+}
+
+.crem{
+    display: flex;
+    flex-direction: column;
+    margin-left: 50px;
+    font-family: Barokah Serif;
+}
+
+.cremation{
+    font-family: Barokah Serif;
+    font-size: 40px;
+    position: relative;
+    bottom: 100px;
+    left: 330px;
+  
+}
+
+.css{
+    font-size: 32px;
+    margin: 0;
+    position: relative;
+    bottom: 100px;
+    left: 330px;
+}
+
+.crema{
+    margin: 0;
+    font-family: Barokah Serif;
+    font-size: 32px;
+    position: relative;
+    bottom: 100px;
+    left: 330px;
+}
+
+.cspic{
+    margin-left: 400px;
+    position: relative;
+    bottom: 70px;
+}
+
+.ecdpic{
+    position: relative;
+    left: 380px;
+}
+
+.embalming{
+    font-size: 40px;
+    position: relative;
+    bottom: 150px;
+}
+
+.ecdmsg{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    margin-left: 880px;
+    font-family: Barokah Serif;
+    position: relative;
+    bottom: 190px;
+}
+
+.em{
+    margin: 0;
+    font-family: Barokah Serif;
+    font-size: 32px;
+    position: relative;
+    bottom: 160px;
+}
+
+.p{
+    display: flex;
+}
+
+.pmsg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 380px;
+    font-family: Barokah Serif;
+}
+
+.personalization{
+    font-size: 40px;
+    position: relative;
+    bottom: 270px;
+}
+
+.per{
+    margin: 0;
+    font-family: Barokah Serif;
+    font-size: 32px;
+    position: relative;
+    bottom: 270px;
+}
+
+.ppic{
+    margin-left: 100px;
+    position: relative;
+    bottom: 270px;
+}
+
+.ws{
+    display: flex;
+}
+
+.wsmsg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 430px;
+    margin-bottom: 100px;
+}
+
+.wake{
+    font-size: 40px;
+    position: relative;
+    bottom: 200px;
+}
+
+.wstxt{
+    margin: 0;
+    font-family: Barokah Serif;
+    font-size: 32px;
+    position: relative;
+    bottom: 160px;
+}
+
+.wspic{
+    position: relative;
+    left: 380px;
+    bottom: 200px;
+}
+
+.wrapper-5{
+    background-color:#003366;
+    width: 100%;
+    height: 416px;
+    margin-left: -8px;
+    bottom: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.footer-logo{
+    color: white;
+    margin-left:100px;
+    top: 50px;
+    display: flex;
+}
+
+.dove{
+    margin-top: 40px;
+}
+
+.ever{
+    font-family: Barokah Serif;
+    font-size: 40px;
+    margin-left: 10px;
+    margin-bottom: -40px;
+}
+
+.socials{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.socials1{
+     padding-right: 10px;
+}
+
+.upper{
+    font-family: Poppins;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    margin-left: 140px;
+    display: flex;
+    flex-direction: column;
+}
+
+.upper1{
+    margin: 0;
+    margin-top: 50px;
+}
+
+.upper2{
+    margin: 0;
+    margin-left: -10px;
+}
+
+.first-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.second-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+}
+
+.ser{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 50px;
+    font-weight: 550;
+}
+
+.serr{
+    margin:0;
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.ser2{
+    margin-top:10px;
+    font-size: 18px;
+    margin:0;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
+.ser1{
+    margin-top:10px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 5px;
+}
+
+.ser3{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 15px;
+}
+
+.second-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.third-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 130px;
+}
+
+.life{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 50px;
+    font-weight: 550;
+}
+
+.plans{
+    margin:0;
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.plan{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    margin:0;
+}
+
+.grief{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 30px;
+    font-weight: 550;
+}
+
+.about{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 10px;
+    font-weight: 550;
+}
+
+.con{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 10px;
+    font-weight: 550;
+}
+
+.fourth-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.year{
+    margin: 0;
+    font-size: 30px;
+    margin-top: 40px;
+    font-weight: 550;
+    margin-left: 140px;
+}
+
+.signup{
+    margin:0;
+    margin-top: 20px;
+    font-size: 22px;
+    color: white;
+    margin-left: 120px;
+}
+.sign{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    margin: 0;
+    margin-left: 120px;
+}
+
+.email{
+     margin-left: 120px;
+     font-size: 16px;
+     color: rgba(255, 255, 255, 0.8);
+}
+
+.submit{
+    border-style: solid;
+    border-color: #E6E6FA;
+    background-color: #003366;
+    color: white;
+    width: 377px;
+    height: 57px;
+    margin-top: 20px;
+    margin-left:123px;
+}
+
+.wrapper-5-txt{
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}

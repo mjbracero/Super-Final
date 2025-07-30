@@ -1,0 +1,567 @@
+.header-logo{
+    font-family: Barokah Serif;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.header-logo > p{
+    padding-left: 10px;
+    font-size: 25px;
+}
+
+.header-logo > img{
+    width: 50px;
+    height: 50px;
+    margin-top: 10px;
+}
+
+.header-text{
+    background: #19598A;
+    display: flex;
+    justify-content: center;
+    margin-top: 7px;
+    margin-left: -8px;
+    height: 85px;
+    width: 100%;
+}
+.header-text > p{
+    display: flex;
+    font-size: 25px;
+    color: white;
+    font-family: Poppins;
+    margin-left: 85px;
+}
+
+.serv{
+    display: flex;
+    font-size: 25px;
+    color: white;
+    font-family: Poppins;
+    margin-left: 85px;
+    text-decoration: none;
+    margin-top: 25px;
+}
+
+.img-bg > img{
+    width: 100%;
+    margin-right: 8px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: -8px;
+}
+
+.img-bg > p{
+    display: flex;
+    font-family: Buttershine Serif;
+    color: rgb(255, 255, 255);
+    position: relative;  
+    justify-content: center;
+}
+
+.honor{
+    font-size: 140px;
+    bottom: 700px;
+}
+
+.helping{
+    font-size: 35px;
+    bottom: 840px;
+}
+
+.btn{
+    position: relative;
+    bottom: 780px;
+    display: flex;
+    justify-content: center;
+    
+}
+
+.btn1{
+    font-family: Poppins; 
+    color: white;
+    font-weight:700;
+    font-size: 30px;
+    border-radius:50px; 
+    background-color: #d8d9da94; 
+    border-style: solid;
+    border-color: white;
+    padding: 20px 130px 20px 130px;
+}
+
+.welcome{
+    font-family: Barokah Serif;
+    font-size: 64px;
+    color: #003366; 
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 600px;
+}
+
+.line{
+    display: flex;
+    justify-content: center;
+    background-color: #003366;
+    width: 650px;
+    height: 5px;
+    position: relative;
+    left: 455px;
+    bottom: 635px;
+}  
+
+.webelieve{
+    font-family: Barokah Serif;
+    font-size: 36px;
+    color: black;
+    text-align: center; 
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 600px; 
+    padding: 0px 100px 0px 130px;
+}
+
+.picswtxt{
+    display: flex;
+    bottom: 550px;
+    position: relative;
+}
+
+.pic1{
+    position: relative;
+    margin-left: 130px;
+}
+
+.first, .second, .third{
+    font-family: Poppins;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    left: 60px;
+    margin: 0;
+}
+
+.firstt{
+    font-family: Poppins;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    left: 60px;
+    margin: 0;  
+    margin-top: 30px;
+}
+
+.secondd{
+    font-family: Poppins;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    left: 60px;
+    margin: 0;  
+    margin-top: 30px;
+}
+
+.thirdd{
+    font-family: Poppins;
+    color: black;
+    font-size: 22px;
+    text-align: center;
+    position: relative;
+    left: 60px;
+    margin: 0;  
+    margin-top: 30px;
+}
+
+.first1{
+    display: flex;
+    flex-direction: column;
+}
+
+.last{
+    display: flex;
+    flex-direction: column;
+}
+.wrapper-3{
+    display: flex;
+}
+.blue-bg{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #003366;
+    width: 1385px;
+    height: 500px;
+    margin-left: 130px;
+    position: relative;
+    bottom: 470px;
+}
+
+.everpeace{
+    font-family: Poppins;
+    color: white;
+    font-weight: 600;
+    font-size: 26px;
+    margin-bottom: 150px;
+}
+
+.contact{
+    justify-content: center;
+    font-family: Barokah Serif;
+    font-size: 64px;
+    color: #E6E6FA;
+    display: flex;
+    position: relative;
+    bottom: 120px;
+}
+
+.bluetxt{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    position: relative;
+    bottom: 70px;
+}
+
+.even{
+    font-family: Poppins;
+    color: #E6E6FA;
+    font-size: 26px;
+}
+
+.you{
+    font-family: Poppins;
+    color: #E6E6FA;
+    font-size: 26px;
+}
+
+.white-bg{
+    background-color: #E6E6FA;
+    width: 300px;
+    height: 80px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 20px;
+    right: 20px;
+    display: flex;
+    align-items: center;
+}
+
+.num{
+    font-family: Poppins;
+    color: #003366; 
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 20px;
+}
+
+.phone{
+    margin-left: 30px;
+}
+
+.db-bg{
+    background-color: #003366; 
+    border-style: solid;
+    border-color: #E6E6FA;
+    width: 300px;
+    height: 75px;
+    border-radius: 5px;
+    position: relative;
+    bottom: 20px;
+    left: 15px;
+     display: flex;
+    align-items: center;
+    
+}
+
+.buttons{
+    display: flex;
+}
+
+.inq{
+    font-family: Poppins;
+    font-weight: 700;
+    font-size: 24px;
+    margin-left: 15px;
+    color:#E6E6FA;
+}
+
+.mail{
+    margin-left: 50px;
+}
+
+.wrapper-4{
+    display: flex;
+    background-color: #E6E6FA;
+    width: 1385px;
+    height: 485px;
+    position:relative;
+    bottom: 350px;
+    left: 130px;
+}
+.map{
+    margin-top: 1px;
+}
+
+.maptxt{
+    font-family: Poppins;
+    color: #003366;
+    font-weight: 600;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+
+.loc{
+    font-size: 24px;
+}
+
+.offerss{
+    margin: 0;
+    font-size: 20px;
+
+}
+
+.offersss{
+    margin: 0;  
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+.place{
+    font-size: 24px;
+    margin: 0;
+
+}
+
+.placee{
+    font-size: 24px;
+    margin: 0;  
+    margin-top: 50px;
+}
+
+.overall{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.wrapper-5{
+    background-color:#003366;
+    width: 100%;
+    height: 416px;
+    margin-left: -8px;
+    bottom: 100px;
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.footer-logo{
+    color: white;
+    margin-left:100px;
+    top: 50px;
+    display: flex;
+}
+
+.dove{
+    margin-top: 40px;
+}
+
+.ever{
+    font-family: Barokah Serif;
+    font-size: 40px;
+    margin-left: 10px;
+    margin-bottom: -40px;
+}
+
+.socials{
+    display: flex;
+    margin-left: 150px;
+    margin-top: 20px;
+}
+
+.socials1{
+     padding-right: 10px;
+}
+
+.upper{
+    font-family: Poppins;
+    font-size: 30px;
+    color: white;
+    font-weight: 600;
+    margin-left: 140px;
+    display: flex;
+    flex-direction: column;
+}
+
+.upper1{
+    margin: 0;
+    margin-top: 50px;
+}
+
+.upper2{
+    margin: 0;
+    margin-left: -10px;
+}
+
+.first-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.second-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 70px;
+}
+
+.ser{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 50px;
+    font-weight: 550;
+}
+
+.serr{
+    margin:0;
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.ser2{
+    margin-top:10px;
+    font-size: 18px;
+    margin:0;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+
+.ser1{
+    margin-top:10px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 5px;
+}
+
+.ser3{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    margin-top: 15px;
+}
+
+.second-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+}
+
+.third-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    margin-left: 130px;
+}
+
+.life{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 50px;
+    font-weight: 550;
+}
+
+.plans{
+    margin:0;
+    margin-top: 20px;
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+}
+
+.plan{
+    font-size: 18px;
+    color: rgba(255, 255, 255, 0.8);
+    margin:0;
+}
+
+.grief{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 30px;
+    font-weight: 550;
+}
+
+.about{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 10px;
+    font-weight: 550;
+}
+
+.con{
+    margin: 0;
+    font-size: 24px;
+    margin-top: 10px;
+    font-weight: 550;
+}
+
+.fourth-column{
+    font-family: Poppins;
+    color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.year{
+    margin: 0;
+    font-size: 30px;
+    margin-top: 40px;
+    font-weight: 550;
+    margin-left: 140px;
+}
+
+.signup{
+    margin:0;
+    margin-top: 20px;
+    font-size: 22px;
+    color: white;
+    margin-left: 120px;
+}
+.sign{
+    text-align: center;
+    font-size: 22px;
+    color: white;
+    margin: 0;
+    margin-left: 120px;
+}
+
+.email{
+     margin-left: 120px;
+     font-size: 16px;
+     color: rgba(255, 255, 255, 0.8);
+}
+
+.submit{
+    border-style: solid;
+    border-color: #E6E6FA;
+    background-color: #003366;
+    color: white;
+    width: 377px;
+    height: 57px;
+    margin-top: 20px;
+    margin-left:123px;
+}
+
+.wrapper-5-txt{
+    display: flex;
+    justify-content: center;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
